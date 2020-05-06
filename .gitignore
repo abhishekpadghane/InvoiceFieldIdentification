@@ -1,0 +1,12 @@
+base
+venv
+env
+.venv
+.env
+.base
+.vscode
+.idea
+__pycache__
+.png
+.jpeg
+.jpg
